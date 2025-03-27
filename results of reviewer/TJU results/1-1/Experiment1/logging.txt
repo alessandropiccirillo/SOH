@@ -1,0 +1,960 @@
+data path:
+['data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#1.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#10.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#11.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#13.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#14.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#15.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#17.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#18.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#19.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#2.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#20.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#22.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#23.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#3.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#5.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#6.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#7.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#8.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#9.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY35-05_1-#2.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY35-05_1-#3.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY35-05_1-#4.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#10.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#11.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#12.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#13.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#14.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#16.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#17.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#18.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#2.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#20.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#21.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#22.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#23.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#25.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#26.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#27.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#3.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#4.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#5.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#6.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#7.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#9.csv']
+data path:
+['data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#12.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#16.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#21.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#4.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY35-05_1-#1.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#1.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#15.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#19.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#24.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#28.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#8.csv']
+2025-03-18 16:49 - function:_save_args - INFO - Args:
+2025-03-18 16:49 - function:_save_args - CRITICAL - 	data:TJU
+2025-03-18 16:49 - function:_save_args - CRITICAL - 	in_same_batch:True
+2025-03-18 16:49 - function:_save_args - CRITICAL - 	train_batch:-1
+2025-03-18 16:49 - function:_save_args - CRITICAL - 	test_batch:-1
+2025-03-18 16:49 - function:_save_args - CRITICAL - 	batch:1
+2025-03-18 16:49 - function:_save_args - CRITICAL - 	batch_size:512
+2025-03-18 16:49 - function:_save_args - CRITICAL - 	normalization_method:min-max
+2025-03-18 16:49 - function:_save_args - CRITICAL - 	epochs:200
+2025-03-18 16:49 - function:_save_args - CRITICAL - 	early_stop:20
+2025-03-18 16:49 - function:_save_args - CRITICAL - 	warmup_epochs:30
+2025-03-18 16:49 - function:_save_args - CRITICAL - 	warmup_lr:0.002
+2025-03-18 16:49 - function:_save_args - CRITICAL - 	lr:0.01
+2025-03-18 16:49 - function:_save_args - CRITICAL - 	final_lr:0.0002
+2025-03-18 16:49 - function:_save_args - CRITICAL - 	lr_F:0.001
+2025-03-18 16:49 - function:_save_args - CRITICAL - 	F_layers_num:3
+2025-03-18 16:49 - function:_save_args - CRITICAL - 	F_hidden_dim:60
+2025-03-18 16:49 - function:_save_args - CRITICAL - 	alpha:1
+2025-03-18 16:49 - function:_save_args - CRITICAL - 	beta:0.05
+2025-03-18 16:49 - function:_save_args - CRITICAL - 	log_dir:logging.txt
+2025-03-18 16:49 - function:_save_args - CRITICAL - 	save_folder:results of reviewer\1-1\Experiment1
+2025-03-18 16:49 - function:Train - INFO - [Train] epoch:1, lr:0.002000, total loss:0.278032
+2025-03-18 16:49 - function:Train - INFO - [Valid] epoch:1, MSE: 0.012669969350099564
+2025-03-18 16:49 - function:Train - INFO - [Test] MSE: 0.01374880, MAE: 0.091521, MAPE: 0.137507, RMSE: 0.117255
+2025-03-18 16:49 - function:Train - INFO - [Train] epoch:2, lr:0.002276, total loss:0.034119
+2025-03-18 16:49 - function:Train - INFO - [Valid] epoch:2, MSE: 0.0023255073465406895
+2025-03-18 16:49 - function:Train - INFO - [Test] MSE: 0.00224498, MAE: 0.035664, MAPE: 0.045399, RMSE: 0.047381
+2025-03-18 16:49 - function:Train - INFO - [Train] epoch:3, lr:0.002552, total loss:0.018536
+2025-03-18 16:49 - function:Train - INFO - [Valid] epoch:3, MSE: 0.001429448719136417
+2025-03-18 16:49 - function:Train - INFO - [Test] MSE: 0.00137842, MAE: 0.029008, MAPE: 0.036241, RMSE: 0.037127
+2025-03-18 16:49 - function:Train - INFO - [Train] epoch:4, lr:0.002828, total loss:0.012707
+2025-03-18 16:49 - function:Train - INFO - [Valid] epoch:4, MSE: 0.0011900434037670493
+2025-03-18 16:49 - function:Train - INFO - [Test] MSE: 0.00107510, MAE: 0.026840, MAPE: 0.033163, RMSE: 0.032789
+2025-03-18 16:49 - function:Train - INFO - [Train] epoch:5, lr:0.003103, total loss:0.009496
+2025-03-18 16:49 - function:Train - INFO - [Valid] epoch:5, MSE: 0.0009265941334888339
+2025-03-18 16:49 - function:Train - INFO - [Test] MSE: 0.00080187, MAE: 0.023468, MAPE: 0.028986, RMSE: 0.028317
+2025-03-18 16:49 - function:Train - INFO - [Train] epoch:6, lr:0.003379, total loss:0.007379
+2025-03-18 16:49 - function:Train - INFO - [Valid] epoch:6, MSE: 0.0008481605909764767
+2025-03-18 16:49 - function:Train - INFO - [Test] MSE: 0.00072069, MAE: 0.022741, MAPE: 0.028029, RMSE: 0.026846
+2025-03-18 16:49 - function:Train - INFO - [Train] epoch:7, lr:0.003655, total loss:0.005972
+2025-03-18 16:49 - function:Train - INFO - [Valid] epoch:7, MSE: 0.0006392445648089051
+2025-03-18 16:49 - function:Train - INFO - [Test] MSE: 0.00053401, MAE: 0.019272, MAPE: 0.023912, RMSE: 0.023109
+2025-03-18 16:49 - function:Train - INFO - [Train] epoch:8, lr:0.003931, total loss:0.004893
+2025-03-18 16:49 - function:Train - INFO - [Valid] epoch:8, MSE: 0.0006123064667917788
+2025-03-18 16:49 - function:Train - INFO - [Test] MSE: 0.00047927, MAE: 0.018625, MAPE: 0.023001, RMSE: 0.021892
+2025-03-18 16:49 - function:Train - INFO - [Train] epoch:9, lr:0.004207, total loss:0.004113
+2025-03-18 16:49 - function:Train - INFO - [Valid] epoch:9, MSE: 0.0006341330008581281
+2025-03-18 16:49 - function:Train - INFO - [Train] epoch:10, lr:0.004483, total loss:0.003528
+2025-03-18 16:49 - function:Train - INFO - [Valid] epoch:10, MSE: 0.0005003103869967163
+2025-03-18 16:49 - function:Train - INFO - [Test] MSE: 0.00037181, MAE: 0.016244, MAPE: 0.020023, RMSE: 0.019282
+2025-03-18 16:49 - function:Train - INFO - [Train] epoch:11, lr:0.004759, total loss:0.003138
+2025-03-18 16:49 - function:Train - INFO - [Valid] epoch:11, MSE: 0.0005603650351986289
+2025-03-18 16:49 - function:Train - INFO - [Train] epoch:12, lr:0.005034, total loss:0.002746
+2025-03-18 16:49 - function:Train - INFO - [Valid] epoch:12, MSE: 0.000490471429657191
+2025-03-18 16:49 - function:Train - INFO - [Test] MSE: 0.00035229, MAE: 0.015933, MAPE: 0.019638, RMSE: 0.018769
+2025-03-18 16:49 - function:Train - INFO - [Train] epoch:13, lr:0.005310, total loss:0.002432
+2025-03-18 16:49 - function:Train - INFO - [Valid] epoch:13, MSE: 0.00040670292219147086
+2025-03-18 16:49 - function:Train - INFO - [Test] MSE: 0.00027824, MAE: 0.013594, MAPE: 0.016798, RMSE: 0.016681
+2025-03-18 16:49 - function:Train - INFO - [Train] epoch:14, lr:0.005586, total loss:0.002232
+2025-03-18 16:49 - function:Train - INFO - [Valid] epoch:14, MSE: 0.00038652183138765395
+2025-03-18 16:49 - function:Train - INFO - [Test] MSE: 0.00026096, MAE: 0.012925, MAPE: 0.015953, RMSE: 0.016154
+2025-03-18 16:49 - function:Train - INFO - [Train] epoch:15, lr:0.005862, total loss:0.002062
+2025-03-18 16:49 - function:Train - INFO - [Valid] epoch:15, MSE: 0.0004181276890449226
+2025-03-18 16:49 - function:Train - INFO - [Train] epoch:16, lr:0.006138, total loss:0.001884
+2025-03-18 16:49 - function:Train - INFO - [Valid] epoch:16, MSE: 0.0003695501945912838
+2025-03-18 16:49 - function:Train - INFO - [Test] MSE: 0.00024853, MAE: 0.012667, MAPE: 0.015648, RMSE: 0.015765
+2025-03-18 16:49 - function:Train - INFO - [Train] epoch:17, lr:0.006414, total loss:0.001741
+2025-03-18 16:49 - function:Train - INFO - [Valid] epoch:17, MSE: 0.00037172046722844243
+2025-03-18 16:49 - function:Train - INFO - [Train] epoch:18, lr:0.006690, total loss:0.001596
+2025-03-18 16:49 - function:Train - INFO - [Valid] epoch:18, MSE: 0.0003555013972800225
+2025-03-18 16:49 - function:Train - INFO - [Test] MSE: 0.00023662, MAE: 0.011978, MAPE: 0.014673, RMSE: 0.015383
+2025-03-18 16:49 - function:Train - INFO - [Train] epoch:19, lr:0.006966, total loss:0.001505
+2025-03-18 16:49 - function:Train - INFO - [Valid] epoch:19, MSE: 0.0003687796415761113
+2025-03-18 16:50 - function:Train - INFO - [Train] epoch:20, lr:0.007241, total loss:0.001408
+2025-03-18 16:50 - function:Train - INFO - [Valid] epoch:20, MSE: 0.0003227657580282539
+2025-03-18 16:50 - function:Train - INFO - [Test] MSE: 0.00021531, MAE: 0.011292, MAPE: 0.013988, RMSE: 0.014673
+2025-03-18 16:50 - function:Train - INFO - [Train] epoch:21, lr:0.007517, total loss:0.001340
+2025-03-18 16:50 - function:Train - INFO - [Valid] epoch:21, MSE: 0.0002952443319372833
+2025-03-18 16:50 - function:Train - INFO - [Test] MSE: 0.00020583, MAE: 0.010251, MAPE: 0.012667, RMSE: 0.014347
+2025-03-18 16:50 - function:Train - INFO - [Train] epoch:22, lr:0.007793, total loss:0.001261
+2025-03-18 16:50 - function:Train - INFO - [Valid] epoch:22, MSE: 0.0002997176197823137
+2025-03-18 16:50 - function:Train - INFO - [Train] epoch:23, lr:0.008069, total loss:0.001214
+2025-03-18 16:50 - function:Train - INFO - [Valid] epoch:23, MSE: 0.0002783823001664132
+2025-03-18 16:50 - function:Train - INFO - [Test] MSE: 0.00019684, MAE: 0.009765, MAPE: 0.012101, RMSE: 0.014030
+2025-03-18 16:50 - function:Train - INFO - [Train] epoch:24, lr:0.008345, total loss:0.001147
+2025-03-18 16:50 - function:Train - INFO - [Valid] epoch:24, MSE: 0.0002736523456405848
+2025-03-18 16:50 - function:Train - INFO - [Test] MSE: 0.00019361, MAE: 0.009842, MAPE: 0.012214, RMSE: 0.013914
+2025-03-18 16:50 - function:Train - INFO - [Train] epoch:25, lr:0.008621, total loss:0.001093
+2025-03-18 16:50 - function:Train - INFO - [Valid] epoch:25, MSE: 0.00033544658799655735
+2025-03-18 16:50 - function:Train - INFO - [Train] epoch:26, lr:0.008897, total loss:0.001048
+2025-03-18 16:50 - function:Train - INFO - [Valid] epoch:26, MSE: 0.00028858488076366484
+2025-03-18 16:50 - function:Train - INFO - [Train] epoch:27, lr:0.009172, total loss:0.000987
+2025-03-18 16:50 - function:Train - INFO - [Valid] epoch:27, MSE: 0.0002950449415948242
+2025-03-18 16:50 - function:Train - INFO - [Train] epoch:28, lr:0.009448, total loss:0.000957
+2025-03-18 16:50 - function:Train - INFO - [Valid] epoch:28, MSE: 0.00027569723897613585
+2025-03-18 16:50 - function:Train - INFO - [Train] epoch:29, lr:0.009724, total loss:0.000894
+2025-03-18 16:50 - function:Train - INFO - [Valid] epoch:29, MSE: 0.0002390639710938558
+2025-03-18 16:50 - function:Train - INFO - [Test] MSE: 0.00018601, MAE: 0.009006, MAPE: 0.011178, RMSE: 0.013639
+2025-03-18 16:50 - function:Train - INFO - [Train] epoch:30, lr:0.010000, total loss:0.000893
+2025-03-18 16:50 - function:Train - INFO - [Valid] epoch:30, MSE: 0.00023802914074622095
+2025-03-18 16:50 - function:Train - INFO - [Test] MSE: 0.00018251, MAE: 0.009169, MAPE: 0.011320, RMSE: 0.013510
+2025-03-18 16:50 - function:Train - INFO - [Train] epoch:31, lr:0.010000, total loss:0.000857
+2025-03-18 16:50 - function:Train - INFO - [Valid] epoch:31, MSE: 0.00023013017198536545
+2025-03-18 16:50 - function:Train - INFO - [Test] MSE: 0.00018380, MAE: 0.009143, MAPE: 0.011339, RMSE: 0.013557
+2025-03-18 16:50 - function:Train - INFO - [Train] epoch:32, lr:0.009999, total loss:0.000833
+2025-03-18 16:50 - function:Train - INFO - [Valid] epoch:32, MSE: 0.00023625764879398048
+2025-03-18 16:50 - function:Train - INFO - [Train] epoch:33, lr:0.009997, total loss:0.000786
+2025-03-18 16:50 - function:Train - INFO - [Valid] epoch:33, MSE: 0.0002266043156851083
+2025-03-18 16:50 - function:Train - INFO - [Test] MSE: 0.00018214, MAE: 0.009505, MAPE: 0.011807, RMSE: 0.013496
+2025-03-18 16:50 - function:Train - INFO - [Train] epoch:34, lr:0.009992, total loss:0.000752
+2025-03-18 16:50 - function:Train - INFO - [Valid] epoch:34, MSE: 0.00023025047266855836
+2025-03-18 16:50 - function:Train - INFO - [Train] epoch:35, lr:0.009987, total loss:0.000721
+2025-03-18 16:50 - function:Train - INFO - [Valid] epoch:35, MSE: 0.00021253240993246436
+2025-03-18 16:50 - function:Train - INFO - [Test] MSE: 0.00017255, MAE: 0.008961, MAPE: 0.011118, RMSE: 0.013136
+2025-03-18 16:50 - function:Train - INFO - [Train] epoch:36, lr:0.009979, total loss:0.000709
+2025-03-18 16:50 - function:Train - INFO - [Valid] epoch:36, MSE: 0.00028094975277781487
+2025-03-18 16:50 - function:Train - INFO - [Train] epoch:37, lr:0.009970, total loss:0.000723
+2025-03-18 16:50 - function:Train - INFO - [Valid] epoch:37, MSE: 0.000300023501040414
+2025-03-18 16:50 - function:Train - INFO - [Train] epoch:38, lr:0.009959, total loss:0.000651
+2025-03-18 16:50 - function:Train - INFO - [Valid] epoch:38, MSE: 0.00020859036885667592
+2025-03-18 16:50 - function:Train - INFO - [Test] MSE: 0.00018874, MAE: 0.009579, MAPE: 0.011875, RMSE: 0.013738
+2025-03-18 16:50 - function:Train - INFO - [Train] epoch:39, lr:0.009947, total loss:0.000651
+2025-03-18 16:50 - function:Train - INFO - [Valid] epoch:39, MSE: 0.00020929117454215884
+2025-03-18 16:50 - function:Train - INFO - [Train] epoch:40, lr:0.009932, total loss:0.000629
+2025-03-18 16:50 - function:Train - INFO - [Valid] epoch:40, MSE: 0.0002032325865002349
+2025-03-18 16:50 - function:Train - INFO - [Test] MSE: 0.00017016, MAE: 0.009064, MAPE: 0.011231, RMSE: 0.013045
+2025-03-18 16:50 - function:Train - INFO - [Train] epoch:41, lr:0.009917, total loss:0.000595
+2025-03-18 16:50 - function:Train - INFO - [Valid] epoch:41, MSE: 0.00020059646340087056
+2025-03-18 16:50 - function:Train - INFO - [Test] MSE: 0.00017319, MAE: 0.009118, MAPE: 0.011318, RMSE: 0.013160
+2025-03-18 16:50 - function:Train - INFO - [Train] epoch:42, lr:0.009899, total loss:0.000594
+2025-03-18 16:50 - function:Train - INFO - [Valid] epoch:42, MSE: 0.0002689772518351674
+2025-03-18 16:50 - function:Train - INFO - [Train] epoch:43, lr:0.009880, total loss:0.000578
+2025-03-18 16:50 - function:Train - INFO - [Valid] epoch:43, MSE: 0.000230782461585477
+2025-03-18 16:50 - function:Train - INFO - [Train] epoch:44, lr:0.009859, total loss:0.000560
+2025-03-18 16:50 - function:Train - INFO - [Valid] epoch:44, MSE: 0.00024351106549147516
+2025-03-18 16:50 - function:Train - INFO - [Train] epoch:45, lr:0.009837, total loss:0.000556
+2025-03-18 16:50 - function:Train - INFO - [Valid] epoch:45, MSE: 0.00019257098028901964
+2025-03-18 16:50 - function:Train - INFO - [Test] MSE: 0.00017625, MAE: 0.009406, MAPE: 0.011635, RMSE: 0.013276
+2025-03-18 16:50 - function:Train - INFO - [Train] epoch:46, lr:0.009813, total loss:0.000529
+2025-03-18 16:50 - function:Train - INFO - [Valid] epoch:46, MSE: 0.0002040170948021114
+2025-03-18 16:50 - function:Train - INFO - [Train] epoch:47, lr:0.009787, total loss:0.000529
+2025-03-18 16:50 - function:Train - INFO - [Valid] epoch:47, MSE: 0.0002540240529924631
+2025-03-18 16:50 - function:Train - INFO - [Train] epoch:48, lr:0.009760, total loss:0.000506
+2025-03-18 16:50 - function:Train - INFO - [Valid] epoch:48, MSE: 0.00021448219195008278
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:49, lr:0.009731, total loss:0.000520
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:49, MSE: 0.0001907044934341684
+2025-03-18 16:51 - function:Train - INFO - [Test] MSE: 0.00018955, MAE: 0.009820, MAPE: 0.012189, RMSE: 0.013768
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:50, lr:0.009701, total loss:0.000499
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:50, MSE: 0.0002523762814234942
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:51, lr:0.009669, total loss:0.000477
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:51, MSE: 0.00020241014135535806
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:52, lr:0.009636, total loss:0.000476
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:52, MSE: 0.00018085807096213102
+2025-03-18 16:51 - function:Train - INFO - [Test] MSE: 0.00017940, MAE: 0.009314, MAPE: 0.011539, RMSE: 0.013394
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:53, lr:0.009601, total loss:0.000467
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:53, MSE: 0.00020657699496950954
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:54, lr:0.009564, total loss:0.000473
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:54, MSE: 0.0001753804972395301
+2025-03-18 16:51 - function:Train - INFO - [Test] MSE: 0.00017253, MAE: 0.009151, MAPE: 0.011348, RMSE: 0.013135
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:55, lr:0.009526, total loss:0.000446
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:55, MSE: 0.00020032128668390214
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:56, lr:0.009486, total loss:0.000441
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:56, MSE: 0.00017408040002919734
+2025-03-18 16:51 - function:Train - INFO - [Test] MSE: 0.00017197, MAE: 0.009014, MAPE: 0.011192, RMSE: 0.013114
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:57, lr:0.009445, total loss:0.000445
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:57, MSE: 0.00020169535127934068
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:58, lr:0.009403, total loss:0.000425
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:58, MSE: 0.00017404896789230406
+2025-03-18 16:51 - function:Train - INFO - [Test] MSE: 0.00017618, MAE: 0.009377, MAPE: 0.011621, RMSE: 0.013273
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:59, lr:0.009359, total loss:0.000411
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:59, MSE: 0.00017998734256252646
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:60, lr:0.009313, total loss:0.000414
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:60, MSE: 0.0001926962868310511
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:61, lr:0.009266, total loss:0.000428
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:61, MSE: 0.00016660300025250763
+2025-03-18 16:51 - function:Train - INFO - [Test] MSE: 0.00017141, MAE: 0.009165, MAPE: 0.011355, RMSE: 0.013092
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:62, lr:0.009218, total loss:0.000393
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:62, MSE: 0.0001883346849353984
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:63, lr:0.009168, total loss:0.000384
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:63, MSE: 0.00016566249541938305
+2025-03-18 16:51 - function:Train - INFO - [Test] MSE: 0.00017357, MAE: 0.009216, MAPE: 0.011420, RMSE: 0.013175
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:64, lr:0.009117, total loss:0.000386
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:64, MSE: 0.0002152711240341887
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:65, lr:0.009064, total loss:0.000386
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:65, MSE: 0.0001895536988740787
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:66, lr:0.009010, total loss:0.000405
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:66, MSE: 0.00018406689923722297
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:67, lr:0.008955, total loss:0.000377
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:67, MSE: 0.00016651407349854708
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:68, lr:0.008898, total loss:0.000358
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:68, MSE: 0.0001690992503426969
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:69, lr:0.008841, total loss:0.000359
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:69, MSE: 0.00022275168157648295
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:70, lr:0.008782, total loss:0.000383
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:70, MSE: 0.00016739271814003587
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:71, lr:0.008721, total loss:0.000363
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:71, MSE: 0.00016262091230601072
+2025-03-18 16:51 - function:Train - INFO - [Test] MSE: 0.00018183, MAE: 0.009823, MAPE: 0.012228, RMSE: 0.013484
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:72, lr:0.008660, total loss:0.000354
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:72, MSE: 0.0001753375690896064
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:73, lr:0.008597, total loss:0.000349
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:73, MSE: 0.00016557351045776159
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:74, lr:0.008533, total loss:0.000352
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:74, MSE: 0.0002582086599431932
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:75, lr:0.008467, total loss:0.000350
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:75, MSE: 0.00017222153837792575
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:76, lr:0.008401, total loss:0.000350
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:76, MSE: 0.00016234329086728394
+2025-03-18 16:51 - function:Train - INFO - [Test] MSE: 0.00017688, MAE: 0.009509, MAPE: 0.011755, RMSE: 0.013300
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:77, lr:0.008334, total loss:0.000327
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:77, MSE: 0.00017326050146948546
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:78, lr:0.008265, total loss:0.000326
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:78, MSE: 0.00016462436178699136
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:79, lr:0.008195, total loss:0.000319
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:79, MSE: 0.00014571184874512255
+2025-03-18 16:51 - function:Train - INFO - [Test] MSE: 0.00016016, MAE: 0.008650, MAPE: 0.010755, RMSE: 0.012656
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:80, lr:0.008125, total loss:0.000322
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:80, MSE: 0.00015990447718650103
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:81, lr:0.008053, total loss:0.000322
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:81, MSE: 0.00015282300591934472
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:82, lr:0.007980, total loss:0.000308
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:82, MSE: 0.0001619403628865257
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:83, lr:0.007906, total loss:0.000323
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:83, MSE: 0.000145351339597255
+2025-03-18 16:51 - function:Train - INFO - [Test] MSE: 0.00016161, MAE: 0.008874, MAPE: 0.011031, RMSE: 0.012712
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:84, lr:0.007832, total loss:0.000305
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:84, MSE: 0.0001612072082934901
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:85, lr:0.007756, total loss:0.000305
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:85, MSE: 0.00014504800492431968
+2025-03-18 16:51 - function:Train - INFO - [Test] MSE: 0.00016363, MAE: 0.008989, MAPE: 0.011173, RMSE: 0.012792
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:86, lr:0.007680, total loss:0.000301
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:86, MSE: 0.0001889900304377079
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:87, lr:0.007602, total loss:0.000316
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:87, MSE: 0.00015949957014527172
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:88, lr:0.007524, total loss:0.000308
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:88, MSE: 0.00022514390002470464
+2025-03-18 16:51 - function:Train - INFO - [Train] epoch:89, lr:0.007445, total loss:0.000323
+2025-03-18 16:51 - function:Train - INFO - [Valid] epoch:89, MSE: 0.00020483348635025322
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:90, lr:0.007365, total loss:0.000320
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:90, MSE: 0.0001483713713241741
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:91, lr:0.007284, total loss:0.000300
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:91, MSE: 0.0001446119713364169
+2025-03-18 16:52 - function:Train - INFO - [Test] MSE: 0.00016125, MAE: 0.008678, MAPE: 0.010769, RMSE: 0.012698
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:92, lr:0.007203, total loss:0.000291
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:92, MSE: 0.0001442431821487844
+2025-03-18 16:52 - function:Train - INFO - [Test] MSE: 0.00015892, MAE: 0.008965, MAPE: 0.011132, RMSE: 0.012606
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:93, lr:0.007121, total loss:0.000276
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:93, MSE: 0.00014890900638420135
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:94, lr:0.007038, total loss:0.000277
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:94, MSE: 0.0001862239878391847
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:95, lr:0.006954, total loss:0.000295
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:95, MSE: 0.00015167726087383926
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:96, lr:0.006870, total loss:0.000297
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:96, MSE: 0.0001471548166591674
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:97, lr:0.006785, total loss:0.000284
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:97, MSE: 0.000154136709170416
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:98, lr:0.006700, total loss:0.000269
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:98, MSE: 0.0001692861842457205
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:99, lr:0.006614, total loss:0.000270
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:99, MSE: 0.00015011950745247304
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:100, lr:0.006528, total loss:0.000275
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:100, MSE: 0.00014903761621098965
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:101, lr:0.006441, total loss:0.000269
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:101, MSE: 0.00014367452240549028
+2025-03-18 16:52 - function:Train - INFO - [Test] MSE: 0.00016143, MAE: 0.008656, MAPE: 0.010687, RMSE: 0.012706
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:102, lr:0.006354, total loss:0.000263
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:102, MSE: 0.00015499246364925057
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:103, lr:0.006266, total loss:0.000276
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:103, MSE: 0.00015670953143853694
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:104, lr:0.006178, total loss:0.000268
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:104, MSE: 0.00014883549010846764
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:105, lr:0.006089, total loss:0.000257
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:105, MSE: 0.00025130738504230976
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:106, lr:0.006000, total loss:0.000285
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:106, MSE: 0.00013674313959199935
+2025-03-18 16:52 - function:Train - INFO - [Test] MSE: 0.00015422, MAE: 0.008568, MAPE: 0.010600, RMSE: 0.012419
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:107, lr:0.005911, total loss:0.000266
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:107, MSE: 0.0001427372044418007
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:108, lr:0.005822, total loss:0.000252
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:108, MSE: 0.0001356217690045014
+2025-03-18 16:52 - function:Train - INFO - [Test] MSE: 0.00015398, MAE: 0.008263, MAPE: 0.010218, RMSE: 0.012409
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:109, lr:0.005732, total loss:0.000248
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:109, MSE: 0.00015421038551721722
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:110, lr:0.005642, total loss:0.000252
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:110, MSE: 0.00016541333752684295
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:111, lr:0.005552, total loss:0.000254
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:111, MSE: 0.00014748559624422342
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:112, lr:0.005462, total loss:0.000250
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:112, MSE: 0.00017460821254644543
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:113, lr:0.005372, total loss:0.000278
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:113, MSE: 0.00013267039321362972
+2025-03-18 16:52 - function:Train - INFO - [Test] MSE: 0.00015482, MAE: 0.008491, MAPE: 0.010527, RMSE: 0.012443
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:114, lr:0.005281, total loss:0.000253
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:114, MSE: 0.0001787236542440951
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:115, lr:0.005191, total loss:0.000252
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:115, MSE: 0.0001578470692038536
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:116, lr:0.005100, total loss:0.000244
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:116, MSE: 0.00018297058704774827
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:117, lr:0.005009, total loss:0.000245
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:117, MSE: 0.00019104985403828323
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:118, lr:0.004919, total loss:0.000243
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:118, MSE: 0.00014573831867892295
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:119, lr:0.004828, total loss:0.000239
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:119, MSE: 0.00013688999752048403
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:120, lr:0.004738, total loss:0.000235
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:120, MSE: 0.00013634952483698726
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:121, lr:0.004648, total loss:0.000233
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:121, MSE: 0.0001380022440571338
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:122, lr:0.004558, total loss:0.000241
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:122, MSE: 0.00013431724801193923
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:123, lr:0.004468, total loss:0.000241
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:123, MSE: 0.0001363743795081973
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:124, lr:0.004378, total loss:0.000233
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:124, MSE: 0.0001273134257644415
+2025-03-18 16:52 - function:Train - INFO - [Test] MSE: 0.00014557, MAE: 0.008127, MAPE: 0.010073, RMSE: 0.012065
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:125, lr:0.004289, total loss:0.000242
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:125, MSE: 0.00014231933164410293
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:126, lr:0.004200, total loss:0.000230
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:126, MSE: 0.00013062018842902035
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:127, lr:0.004111, total loss:0.000226
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:127, MSE: 0.00012498095748014748
+2025-03-18 16:52 - function:Train - INFO - [Test] MSE: 0.00015151, MAE: 0.008496, MAPE: 0.010574, RMSE: 0.012309
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:128, lr:0.004022, total loss:0.000231
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:128, MSE: 0.00013335728726815432
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:129, lr:0.003934, total loss:0.000233
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:129, MSE: 0.00013712848885916173
+2025-03-18 16:52 - function:Train - INFO - [Train] epoch:130, lr:0.003846, total loss:0.000229
+2025-03-18 16:52 - function:Train - INFO - [Valid] epoch:130, MSE: 0.00012800413242075592
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:131, lr:0.003759, total loss:0.000221
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:131, MSE: 0.000130848799017258
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:132, lr:0.003672, total loss:0.000224
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:132, MSE: 0.00013253586075734347
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:133, lr:0.003586, total loss:0.000225
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:133, MSE: 0.00013653712812811136
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:134, lr:0.003500, total loss:0.000224
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:134, MSE: 0.0001396184234181419
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:135, lr:0.003415, total loss:0.000225
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:135, MSE: 0.00013810416567139328
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:136, lr:0.003330, total loss:0.000222
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:136, MSE: 0.00012718373909592628
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:137, lr:0.003246, total loss:0.000219
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:137, MSE: 0.00012233945017214864
+2025-03-18 16:53 - function:Train - INFO - [Test] MSE: 0.00015000, MAE: 0.008496, MAPE: 0.010566, RMSE: 0.012248
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:138, lr:0.003162, total loss:0.000220
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:138, MSE: 0.00012717324716504663
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:139, lr:0.003079, total loss:0.000221
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:139, MSE: 0.00012100391904823482
+2025-03-18 16:53 - function:Train - INFO - [Test] MSE: 0.00014027, MAE: 0.007788, MAPE: 0.009660, RMSE: 0.011844
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:140, lr:0.002997, total loss:0.000216
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:140, MSE: 0.00012013339437544346
+2025-03-18 16:53 - function:Train - INFO - [Test] MSE: 0.00014685, MAE: 0.008291, MAPE: 0.010285, RMSE: 0.012118
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:141, lr:0.002916, total loss:0.000215
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:141, MSE: 0.00012792581401299685
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:142, lr:0.002835, total loss:0.000227
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:142, MSE: 0.0001643640862312168
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:143, lr:0.002755, total loss:0.000223
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:143, MSE: 0.00012169522960903123
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:144, lr:0.002676, total loss:0.000213
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:144, MSE: 0.00011914620699826628
+2025-03-18 16:53 - function:Train - INFO - [Test] MSE: 0.00014133, MAE: 0.008013, MAPE: 0.009952, RMSE: 0.011888
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:145, lr:0.002598, total loss:0.000211
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:145, MSE: 0.00011897645890712738
+2025-03-18 16:53 - function:Train - INFO - [Test] MSE: 0.00014133, MAE: 0.007944, MAPE: 0.009853, RMSE: 0.011888
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:146, lr:0.002520, total loss:0.000210
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:146, MSE: 0.00013076468894723803
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:147, lr:0.002444, total loss:0.000208
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:147, MSE: 0.00011782517685787752
+2025-03-18 16:53 - function:Train - INFO - [Test] MSE: 0.00014298, MAE: 0.008140, MAPE: 0.010111, RMSE: 0.011957
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:148, lr:0.002368, total loss:0.000215
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:148, MSE: 0.00011958336835959926
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:149, lr:0.002294, total loss:0.000209
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:149, MSE: 0.00012208643602207303
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:150, lr:0.002220, total loss:0.000213
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:150, MSE: 0.0001243841543328017
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:151, lr:0.002147, total loss:0.000210
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:151, MSE: 0.00011781159992096946
+2025-03-18 16:53 - function:Train - INFO - [Test] MSE: 0.00013658, MAE: 0.007931, MAPE: 0.009839, RMSE: 0.011687
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:152, lr:0.002075, total loss:0.000205
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:152, MSE: 0.000129124236991629
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:153, lr:0.002005, total loss:0.000217
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:153, MSE: 0.00012378388782963157
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:154, lr:0.001935, total loss:0.000204
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:154, MSE: 0.00012273537868168205
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:155, lr:0.001866, total loss:0.000213
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:155, MSE: 0.00011981793068116531
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:156, lr:0.001799, total loss:0.000206
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:156, MSE: 0.0001181175175588578
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:157, lr:0.001733, total loss:0.000210
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:157, MSE: 0.00011689066741382703
+2025-03-18 16:53 - function:Train - INFO - [Test] MSE: 0.00013568, MAE: 0.007632, MAPE: 0.009449, RMSE: 0.011648
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:158, lr:0.001667, total loss:0.000216
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:158, MSE: 0.00012013527884846553
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:159, lr:0.001603, total loss:0.000207
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:159, MSE: 0.00012072415847796947
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:160, lr:0.001540, total loss:0.000205
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:160, MSE: 0.0001279284042539075
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:161, lr:0.001479, total loss:0.000213
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:161, MSE: 0.00012226126273162663
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:162, lr:0.001418, total loss:0.000205
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:162, MSE: 0.00012158769823145121
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:163, lr:0.001359, total loss:0.000199
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:163, MSE: 0.00012090703967260197
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:164, lr:0.001302, total loss:0.000198
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:164, MSE: 0.00011798723426181823
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:165, lr:0.001245, total loss:0.000197
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:165, MSE: 0.00011663240729831159
+2025-03-18 16:53 - function:Train - INFO - [Test] MSE: 0.00013903, MAE: 0.008011, MAPE: 0.009927, RMSE: 0.011791
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:166, lr:0.001190, total loss:0.000198
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:166, MSE: 0.00011454286868683994
+2025-03-18 16:53 - function:Train - INFO - [Test] MSE: 0.00013559, MAE: 0.007713, MAPE: 0.009560, RMSE: 0.011644
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:167, lr:0.001136, total loss:0.000200
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:167, MSE: 0.00011975170491496101
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:168, lr:0.001083, total loss:0.000200
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:168, MSE: 0.00011743918730644509
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:169, lr:0.001032, total loss:0.000197
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:169, MSE: 0.00011704590724548325
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:170, lr:0.000982, total loss:0.000204
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:170, MSE: 0.00013089677668176591
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:171, lr:0.000934, total loss:0.000198
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:171, MSE: 0.00011394349712645635
+2025-03-18 16:53 - function:Train - INFO - [Test] MSE: 0.00013581, MAE: 0.007891, MAPE: 0.009773, RMSE: 0.011654
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:172, lr:0.000887, total loss:0.000199
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:172, MSE: 0.0001191316987387836
+2025-03-18 16:53 - function:Train - INFO - [Train] epoch:173, lr:0.000841, total loss:0.000197
+2025-03-18 16:53 - function:Train - INFO - [Valid] epoch:173, MSE: 0.00011669260129565373
+2025-03-18 16:54 - function:Train - INFO - [Train] epoch:174, lr:0.000797, total loss:0.000195
+2025-03-18 16:54 - function:Train - INFO - [Valid] epoch:174, MSE: 0.00011323388025630265
+2025-03-18 16:54 - function:Train - INFO - [Test] MSE: 0.00013301, MAE: 0.007596, MAPE: 0.009414, RMSE: 0.011533
+2025-03-18 16:54 - function:Train - INFO - [Train] epoch:175, lr:0.000755, total loss:0.000196
+2025-03-18 16:54 - function:Train - INFO - [Valid] epoch:175, MSE: 0.00011509224714245647
+2025-03-18 16:54 - function:Train - INFO - [Train] epoch:176, lr:0.000714, total loss:0.000196
+2025-03-18 16:54 - function:Train - INFO - [Valid] epoch:176, MSE: 0.00011721051851054654
+2025-03-18 16:54 - function:Train - INFO - [Train] epoch:177, lr:0.000674, total loss:0.000195
+2025-03-18 16:54 - function:Train - INFO - [Valid] epoch:177, MSE: 0.00011611105583142489
+2025-03-18 16:54 - function:Train - INFO - [Train] epoch:178, lr:0.000636, total loss:0.000191
+2025-03-18 16:54 - function:Train - INFO - [Valid] epoch:178, MSE: 0.0001142784021794796
+2025-03-18 16:54 - function:Train - INFO - [Train] epoch:179, lr:0.000599, total loss:0.000192
+2025-03-18 16:54 - function:Train - INFO - [Valid] epoch:179, MSE: 0.00011472535697976127
+2025-03-18 16:54 - function:Train - INFO - [Train] epoch:180, lr:0.000564, total loss:0.000190
+2025-03-18 16:54 - function:Train - INFO - [Valid] epoch:180, MSE: 0.00011300204641884193
+2025-03-18 16:54 - function:Train - INFO - [Test] MSE: 0.00013318, MAE: 0.007815, MAPE: 0.009690, RMSE: 0.011540
+2025-03-18 16:54 - function:Train - INFO - [Train] epoch:181, lr:0.000531, total loss:0.000197
+2025-03-18 16:54 - function:Train - INFO - [Valid] epoch:181, MSE: 0.0001162763946922496
+2025-03-18 16:54 - function:Train - INFO - [Train] epoch:182, lr:0.000499, total loss:0.000194
+2025-03-18 16:54 - function:Train - INFO - [Valid] epoch:182, MSE: 0.00011434264888521284
+2025-03-18 16:54 - function:Train - INFO - [Train] epoch:183, lr:0.000469, total loss:0.000192
+2025-03-18 16:54 - function:Train - INFO - [Valid] epoch:183, MSE: 0.00011435722262831405
+2025-03-18 16:54 - function:Train - INFO - [Train] epoch:184, lr:0.000440, total loss:0.000191
+2025-03-18 16:54 - function:Train - INFO - [Valid] epoch:184, MSE: 0.00011354401794960722
+2025-03-18 16:54 - function:Train - INFO - [Train] epoch:185, lr:0.000413, total loss:0.000190
+2025-03-18 16:54 - function:Train - INFO - [Valid] epoch:185, MSE: 0.00011284424545010552
+2025-03-18 16:54 - function:Train - INFO - [Test] MSE: 0.00013194, MAE: 0.007625, MAPE: 0.009445, RMSE: 0.011486
+2025-03-18 16:54 - function:Train - INFO - [Train] epoch:186, lr:0.000387, total loss:0.000189
+2025-03-18 16:54 - function:Train - INFO - [Valid] epoch:186, MSE: 0.00011957655078731477
+2025-03-18 16:54 - function:Train - INFO - [Train] epoch:187, lr:0.000363, total loss:0.000192
+2025-03-18 16:54 - function:Train - INFO - [Valid] epoch:187, MSE: 0.00011394538887543604
+2025-03-18 16:54 - function:Train - INFO - [Train] epoch:188, lr:0.000341, total loss:0.000188
+2025-03-18 16:54 - function:Train - INFO - [Valid] epoch:188, MSE: 0.0001139691230491735
+2025-03-18 16:54 - function:Train - INFO - [Train] epoch:189, lr:0.000320, total loss:0.000188
+2025-03-18 16:54 - function:Train - INFO - [Valid] epoch:189, MSE: 0.00011292649287497625
+2025-03-18 16:54 - function:Train - INFO - [Train] epoch:190, lr:0.000301, total loss:0.000191
+2025-03-18 16:54 - function:Train - INFO - [Valid] epoch:190, MSE: 0.0001144995549111627
+2025-03-18 16:54 - function:Train - INFO - [Train] epoch:191, lr:0.000283, total loss:0.000190
+2025-03-18 16:54 - function:Train - INFO - [Valid] epoch:191, MSE: 0.00011322992941131815
+2025-03-18 16:54 - function:Train - INFO - [Train] epoch:192, lr:0.000268, total loss:0.000197
+2025-03-18 16:54 - function:Train - INFO - [Valid] epoch:192, MSE: 0.00011316000745864585
+2025-03-18 16:54 - function:Train - INFO - [Train] epoch:193, lr:0.000253, total loss:0.000190
+2025-03-18 16:54 - function:Train - INFO - [Valid] epoch:193, MSE: 0.00011246246140217409
+2025-03-18 16:54 - function:Train - INFO - [Test] MSE: 0.00013282, MAE: 0.007750, MAPE: 0.009612, RMSE: 0.011525
+2025-03-18 16:54 - function:Train - INFO - [Train] epoch:194, lr:0.000241, total loss:0.000188
+2025-03-18 16:54 - function:Train - INFO - [Valid] epoch:194, MSE: 0.00011306050146231428
+2025-03-18 16:54 - function:Train - INFO - [Train] epoch:195, lr:0.000230, total loss:0.000191
+2025-03-18 16:54 - function:Train - INFO - [Valid] epoch:195, MSE: 0.00011304783402010798
+2025-03-18 16:54 - function:Train - INFO - [Train] epoch:196, lr:0.000221, total loss:0.000191
+2025-03-18 16:54 - function:Train - INFO - [Valid] epoch:196, MSE: 0.00011224944319110364
+2025-03-18 16:54 - function:Train - INFO - [Test] MSE: 0.00013105, MAE: 0.007654, MAPE: 0.009481, RMSE: 0.011447
+2025-03-18 16:54 - function:Train - INFO - [Train] epoch:197, lr:0.000213, total loss:0.000194
+2025-03-18 16:54 - function:Train - INFO - [Valid] epoch:197, MSE: 0.0001128869189415127
+2025-03-18 16:54 - function:Train - INFO - [Train] epoch:198, lr:0.000208, total loss:0.000190
+2025-03-18 16:54 - function:Train - INFO - [Valid] epoch:198, MSE: 0.0001125751732615754
+2025-03-18 16:54 - function:Train - INFO - [Train] epoch:199, lr:0.000203, total loss:0.000186
+2025-03-18 16:54 - function:Train - INFO - [Valid] epoch:199, MSE: 0.00011640434968285263
+2025-03-18 16:54 - function:Train - INFO - [Train] epoch:200, lr:0.000201, total loss:0.000189
+2025-03-18 16:54 - function:Train - INFO - [Valid] epoch:200, MSE: 0.00011410379374865443
+data path:
+['data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#1.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#10.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#11.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#13.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#14.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#15.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#17.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#18.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#19.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#2.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#20.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#22.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#23.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#3.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#5.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#6.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#7.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#8.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#9.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY35-05_1-#2.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY35-05_1-#3.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY35-05_1-#4.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#10.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#11.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#12.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#13.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#14.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#16.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#17.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#18.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#2.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#20.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#21.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#22.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#23.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#25.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#26.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#27.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#3.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#4.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#5.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#6.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#7.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#9.csv']
+data path:
+['data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#12.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#16.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#21.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY25-05_1-#4.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY35-05_1-#1.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#1.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#15.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#19.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#24.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#28.csv', 'data/TJU data\\Dataset_2_NCM_battery\\CY45-05_1-#8.csv']
+2025-03-18 18:44 - function:_save_args - INFO - Args:
+2025-03-18 18:44 - function:_save_args - CRITICAL - 	data:TJU
+2025-03-18 18:44 - function:_save_args - CRITICAL - 	in_same_batch:True
+2025-03-18 18:44 - function:_save_args - CRITICAL - 	train_batch:-1
+2025-03-18 18:44 - function:_save_args - CRITICAL - 	test_batch:-1
+2025-03-18 18:44 - function:_save_args - CRITICAL - 	batch:1
+2025-03-18 18:44 - function:_save_args - CRITICAL - 	batch_size:512
+2025-03-18 18:44 - function:_save_args - CRITICAL - 	normalization_method:min-max
+2025-03-18 18:44 - function:_save_args - CRITICAL - 	epochs:200
+2025-03-18 18:44 - function:_save_args - CRITICAL - 	early_stop:20
+2025-03-18 18:44 - function:_save_args - CRITICAL - 	warmup_epochs:30
+2025-03-18 18:44 - function:_save_args - CRITICAL - 	warmup_lr:0.002
+2025-03-18 18:44 - function:_save_args - CRITICAL - 	lr:0.01
+2025-03-18 18:44 - function:_save_args - CRITICAL - 	final_lr:0.0002
+2025-03-18 18:44 - function:_save_args - CRITICAL - 	lr_F:0.001
+2025-03-18 18:44 - function:_save_args - CRITICAL - 	F_layers_num:3
+2025-03-18 18:44 - function:_save_args - CRITICAL - 	F_hidden_dim:60
+2025-03-18 18:44 - function:_save_args - CRITICAL - 	alpha:1
+2025-03-18 18:44 - function:_save_args - CRITICAL - 	beta:0.05
+2025-03-18 18:44 - function:_save_args - CRITICAL - 	log_dir:logging.txt
+2025-03-18 18:44 - function:_save_args - CRITICAL - 	save_folder:results of reviewer\1-1\Experiment1
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:1, lr:0.002000, total loss:0.162982
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:1, MSE: 0.009404836222529411
+2025-03-18 18:44 - function:Train - INFO - [Test] MSE: 0.00950863, MAE: 0.073537, MAPE: 0.100577, RMSE: 0.097512
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:2, lr:0.002276, total loss:0.020784
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:2, MSE: 0.0025887470692396164
+2025-03-18 18:44 - function:Train - INFO - [Test] MSE: 0.00277005, MAE: 0.040894, MAPE: 0.051563, RMSE: 0.052631
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:3, lr:0.002552, total loss:0.009861
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:3, MSE: 0.0012896674452349544
+2025-03-18 18:44 - function:Train - INFO - [Test] MSE: 0.00128263, MAE: 0.028157, MAPE: 0.035204, RMSE: 0.035814
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:4, lr:0.002828, total loss:0.006148
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:4, MSE: 0.001109541393816471
+2025-03-18 18:44 - function:Train - INFO - [Test] MSE: 0.00103020, MAE: 0.026788, MAPE: 0.033014, RMSE: 0.032097
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:5, lr:0.003103, total loss:0.004432
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:5, MSE: 0.0007489318959414959
+2025-03-18 18:44 - function:Train - INFO - [Test] MSE: 0.00066734, MAE: 0.021157, MAPE: 0.026254, RMSE: 0.025833
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:6, lr:0.003379, total loss:0.003431
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:6, MSE: 0.0006237870547920465
+2025-03-18 18:44 - function:Train - INFO - [Test] MSE: 0.00052388, MAE: 0.018435, MAPE: 0.022867, RMSE: 0.022888
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:7, lr:0.003655, total loss:0.002820
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:7, MSE: 0.0007435514125972986
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:8, lr:0.003931, total loss:0.002468
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:8, MSE: 0.0007822062470950186
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:9, lr:0.004207, total loss:0.002151
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:9, MSE: 0.0010194036876782775
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:10, lr:0.004483, total loss:0.001880
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:10, MSE: 0.00048161239828914404
+2025-03-18 18:44 - function:Train - INFO - [Test] MSE: 0.00034587, MAE: 0.014885, MAPE: 0.018415, RMSE: 0.018598
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:11, lr:0.004759, total loss:0.001693
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:11, MSE: 0.0005628104554489255
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:12, lr:0.005034, total loss:0.001564
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:12, MSE: 0.0005547996843233705
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:13, lr:0.005310, total loss:0.001420
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:13, MSE: 0.0007062513031996787
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:14, lr:0.005586, total loss:0.001314
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:14, MSE: 0.0005616046255454421
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:15, lr:0.005862, total loss:0.001213
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:15, MSE: 0.0004651382041629404
+2025-03-18 18:44 - function:Train - INFO - [Test] MSE: 0.00031104, MAE: 0.014451, MAPE: 0.017955, RMSE: 0.017636
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:16, lr:0.006138, total loss:0.001161
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:16, MSE: 0.00038885464891791344
+2025-03-18 18:44 - function:Train - INFO - [Test] MSE: 0.00025828, MAE: 0.012895, MAPE: 0.016054, RMSE: 0.016071
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:17, lr:0.006414, total loss:0.001056
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:17, MSE: 0.0004272646619938314
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:18, lr:0.006690, total loss:0.000990
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:18, MSE: 0.0004430488625075668
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:19, lr:0.006966, total loss:0.000931
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:19, MSE: 0.00032919438672252
+2025-03-18 18:44 - function:Train - INFO - [Test] MSE: 0.00019462, MAE: 0.010349, MAPE: 0.012747, RMSE: 0.013951
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:20, lr:0.007241, total loss:0.000887
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:20, MSE: 0.0003484395856503397
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:21, lr:0.007517, total loss:0.000826
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:21, MSE: 0.0003471341042313725
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:22, lr:0.007793, total loss:0.000803
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:22, MSE: 0.0004072414885740727
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:23, lr:0.008069, total loss:0.000775
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:23, MSE: 0.00028268128517083824
+2025-03-18 18:44 - function:Train - INFO - [Test] MSE: 0.00017470, MAE: 0.009017, MAPE: 0.011170, RMSE: 0.013217
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:24, lr:0.008345, total loss:0.000734
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:24, MSE: 0.0002908104215748608
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:25, lr:0.008621, total loss:0.000707
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:25, MSE: 0.00026231189258396626
+2025-03-18 18:44 - function:Train - INFO - [Test] MSE: 0.00016078, MAE: 0.008488, MAPE: 0.010510, RMSE: 0.012680
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:26, lr:0.008897, total loss:0.000682
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:26, MSE: 0.00038270512595772743
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:27, lr:0.009172, total loss:0.000695
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:27, MSE: 0.0003203825035598129
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:28, lr:0.009448, total loss:0.000662
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:28, MSE: 0.000355303956894204
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:29, lr:0.009724, total loss:0.000647
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:29, MSE: 0.0002608960203360766
+2025-03-18 18:44 - function:Train - INFO - [Test] MSE: 0.00015650, MAE: 0.008756, MAPE: 0.010786, RMSE: 0.012510
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:30, lr:0.010000, total loss:0.000613
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:30, MSE: 0.0002487924066372216
+2025-03-18 18:44 - function:Train - INFO - [Test] MSE: 0.00015222, MAE: 0.008533, MAPE: 0.010538, RMSE: 0.012338
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:31, lr:0.010000, total loss:0.000597
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:31, MSE: 0.00025361686130054295
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:32, lr:0.009999, total loss:0.000578
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:32, MSE: 0.0002490998012945056
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:33, lr:0.009997, total loss:0.000541
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:33, MSE: 0.0003590006672311574
+2025-03-18 18:44 - function:Train - INFO - [Train] epoch:34, lr:0.009992, total loss:0.000559
+2025-03-18 18:44 - function:Train - INFO - [Valid] epoch:34, MSE: 0.00031663343543186784
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:35, lr:0.009987, total loss:0.000534
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:35, MSE: 0.00026173805235885084
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:36, lr:0.009979, total loss:0.000553
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:36, MSE: 0.00027388587477616966
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:37, lr:0.009970, total loss:0.000479
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:37, MSE: 0.00023592490470036864
+2025-03-18 18:45 - function:Train - INFO - [Test] MSE: 0.00016020, MAE: 0.008932, MAPE: 0.010972, RMSE: 0.012657
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:38, lr:0.009959, total loss:0.000530
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:38, MSE: 0.0002667641674634069
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:39, lr:0.009947, total loss:0.000532
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:39, MSE: 0.00024372368352487683
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:40, lr:0.009932, total loss:0.000469
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:40, MSE: 0.00024364845012314618
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:41, lr:0.009917, total loss:0.000449
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:41, MSE: 0.0002155821566702798
+2025-03-18 18:45 - function:Train - INFO - [Test] MSE: 0.00016398, MAE: 0.009269, MAPE: 0.011453, RMSE: 0.012806
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:42, lr:0.009899, total loss:0.000467
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:42, MSE: 0.0002507262979634106
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:43, lr:0.009880, total loss:0.000431
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:43, MSE: 0.00022181535314302891
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:44, lr:0.009859, total loss:0.000421
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:44, MSE: 0.00021818721143063158
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:45, lr:0.009837, total loss:0.000403
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:45, MSE: 0.00020803225925192237
+2025-03-18 18:45 - function:Train - INFO - [Test] MSE: 0.00016065, MAE: 0.008986, MAPE: 0.011078, RMSE: 0.012675
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:46, lr:0.009813, total loss:0.000402
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:46, MSE: 0.00021782805561088026
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:47, lr:0.009787, total loss:0.000394
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:47, MSE: 0.00019972416339442134
+2025-03-18 18:45 - function:Train - INFO - [Test] MSE: 0.00015739, MAE: 0.008799, MAPE: 0.010852, RMSE: 0.012546
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:48, lr:0.009760, total loss:0.000389
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:48, MSE: 0.00020230599329806864
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:49, lr:0.009731, total loss:0.000371
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:49, MSE: 0.0003207682748325169
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:50, lr:0.009701, total loss:0.000670
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:50, MSE: 0.000235919957049191
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:51, lr:0.009669, total loss:0.000389
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:51, MSE: 0.00022285572777036577
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:52, lr:0.009636, total loss:0.000373
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:52, MSE: 0.00019676740339491516
+2025-03-18 18:45 - function:Train - INFO - [Test] MSE: 0.00016637, MAE: 0.009257, MAPE: 0.011442, RMSE: 0.012899
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:53, lr:0.009601, total loss:0.000366
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:53, MSE: 0.00017920040409080684
+2025-03-18 18:45 - function:Train - INFO - [Test] MSE: 0.00015630, MAE: 0.009036, MAPE: 0.011221, RMSE: 0.012502
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:54, lr:0.009564, total loss:0.000365
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:54, MSE: 0.000261405308265239
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:55, lr:0.009526, total loss:0.000393
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:55, MSE: 0.00024231574207078665
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:56, lr:0.009486, total loss:0.000368
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:56, MSE: 0.0002033592900261283
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:57, lr:0.009445, total loss:0.000338
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:57, MSE: 0.00019052045536227524
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:58, lr:0.009403, total loss:0.000328
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:58, MSE: 0.00023131431953515857
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:59, lr:0.009359, total loss:0.000336
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:59, MSE: 0.0001664375449763611
+2025-03-18 18:45 - function:Train - INFO - [Test] MSE: 0.00015540, MAE: 0.008828, MAPE: 0.010958, RMSE: 0.012466
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:60, lr:0.009313, total loss:0.000349
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:60, MSE: 0.00027323837275616825
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:61, lr:0.009266, total loss:0.000353
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:61, MSE: 0.00019228919700253755
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:62, lr:0.009218, total loss:0.000324
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:62, MSE: 0.00033442748826928437
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:63, lr:0.009168, total loss:0.000358
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:63, MSE: 0.00016345705080311745
+2025-03-18 18:45 - function:Train - INFO - [Test] MSE: 0.00015949, MAE: 0.008880, MAPE: 0.010975, RMSE: 0.012629
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:64, lr:0.009117, total loss:0.000313
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:64, MSE: 0.0001749692892190069
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:65, lr:0.009064, total loss:0.000425
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:65, MSE: 0.00022841781901661307
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:66, lr:0.009010, total loss:0.000298
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:66, MSE: 0.00017193288658745587
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:67, lr:0.008955, total loss:0.000316
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:67, MSE: 0.0002129819185938686
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:68, lr:0.008898, total loss:0.000287
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:68, MSE: 0.00015390923363156617
+2025-03-18 18:45 - function:Train - INFO - [Test] MSE: 0.00015076, MAE: 0.008750, MAPE: 0.010839, RMSE: 0.012278
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:69, lr:0.008841, total loss:0.000297
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:69, MSE: 0.00017129121988546103
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:70, lr:0.008782, total loss:0.000289
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:70, MSE: 0.00019331446674186736
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:71, lr:0.008721, total loss:0.000279
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:71, MSE: 0.00016628942103125155
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:72, lr:0.008660, total loss:0.000298
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:72, MSE: 0.0001874958979897201
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:73, lr:0.008597, total loss:0.000303
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:73, MSE: 0.00018346565775573254
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:74, lr:0.008533, total loss:0.000278
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:74, MSE: 0.000153472792590037
+2025-03-18 18:45 - function:Train - INFO - [Test] MSE: 0.00015011, MAE: 0.008566, MAPE: 0.010590, RMSE: 0.012252
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:75, lr:0.008467, total loss:0.000265
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:75, MSE: 0.0001777715515345335
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:76, lr:0.008401, total loss:0.000260
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:76, MSE: 0.0001463342778151855
+2025-03-18 18:45 - function:Train - INFO - [Test] MSE: 0.00014449, MAE: 0.008202, MAPE: 0.010145, RMSE: 0.012021
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:77, lr:0.008334, total loss:0.000295
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:77, MSE: 0.00018837086099665612
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:78, lr:0.008265, total loss:0.000303
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:78, MSE: 0.00015876113320700824
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:79, lr:0.008195, total loss:0.000259
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:79, MSE: 0.0001462088112020865
+2025-03-18 18:45 - function:Train - INFO - [Test] MSE: 0.00015103, MAE: 0.008522, MAPE: 0.010514, RMSE: 0.012290
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:80, lr:0.008125, total loss:0.000337
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:80, MSE: 0.00020183715969324112
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:81, lr:0.008053, total loss:0.000269
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:81, MSE: 0.00015162017371039838
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:82, lr:0.007980, total loss:0.000277
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:82, MSE: 0.00017442333046346903
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:83, lr:0.007906, total loss:0.000265
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:83, MSE: 0.0001467749389121309
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:84, lr:0.007832, total loss:0.000256
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:84, MSE: 0.0002071205381071195
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:85, lr:0.007756, total loss:0.000282
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:85, MSE: 0.00016286756726913154
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:86, lr:0.007680, total loss:0.000265
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:86, MSE: 0.00014441930397879332
+2025-03-18 18:45 - function:Train - INFO - [Test] MSE: 0.00015427, MAE: 0.008883, MAPE: 0.010975, RMSE: 0.012420
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:87, lr:0.007602, total loss:0.000246
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:87, MSE: 0.00014706685033161193
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:88, lr:0.007524, total loss:0.000271
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:88, MSE: 0.00023503763077314943
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:89, lr:0.007445, total loss:0.000284
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:89, MSE: 0.00017721102631185204
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:90, lr:0.007365, total loss:0.000240
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:90, MSE: 0.00014102341083344072
+2025-03-18 18:45 - function:Train - INFO - [Test] MSE: 0.00014801, MAE: 0.008411, MAPE: 0.010422, RMSE: 0.012166
+2025-03-18 18:45 - function:Train - INFO - [Train] epoch:91, lr:0.007284, total loss:0.000237
+2025-03-18 18:45 - function:Train - INFO - [Valid] epoch:91, MSE: 0.00014412763994187117
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:92, lr:0.007203, total loss:0.000235
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:92, MSE: 0.00013523382949642837
+2025-03-18 18:46 - function:Train - INFO - [Test] MSE: 0.00014116, MAE: 0.008088, MAPE: 0.010007, RMSE: 0.011881
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:93, lr:0.007121, total loss:0.000251
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:93, MSE: 0.00013407255755737424
+2025-03-18 18:46 - function:Train - INFO - [Test] MSE: 0.00014151, MAE: 0.007972, MAPE: 0.009873, RMSE: 0.011896
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:94, lr:0.007038, total loss:0.000230
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:94, MSE: 0.00013940913777332753
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:95, lr:0.006954, total loss:0.000231
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:95, MSE: 0.0001396597654093057
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:96, lr:0.006870, total loss:0.000237
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:96, MSE: 0.00014139912673272192
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:97, lr:0.006785, total loss:0.000231
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:97, MSE: 0.0002260686451336369
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:98, lr:0.006700, total loss:0.000254
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:98, MSE: 0.0001411972480127588
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:99, lr:0.006614, total loss:0.000249
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:99, MSE: 0.00018424981681164354
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:100, lr:0.006528, total loss:0.000232
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:100, MSE: 0.00016176362987607718
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:101, lr:0.006441, total loss:0.000221
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:101, MSE: 0.00015075111878104508
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:102, lr:0.006354, total loss:0.000222
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:102, MSE: 0.0001643425930524245
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:103, lr:0.006266, total loss:0.000221
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:103, MSE: 0.0001565871061757207
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:104, lr:0.006178, total loss:0.000224
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:104, MSE: 0.000143415731145069
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:105, lr:0.006089, total loss:0.000215
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:105, MSE: 0.00013279230915941298
+2025-03-18 18:46 - function:Train - INFO - [Test] MSE: 0.00013983, MAE: 0.007954, MAPE: 0.009829, RMSE: 0.011825
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:106, lr:0.006000, total loss:0.000224
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:106, MSE: 0.00015541940229013562
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:107, lr:0.005911, total loss:0.000222
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:107, MSE: 0.00017595876124687493
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:108, lr:0.005822, total loss:0.000231
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:108, MSE: 0.0001731078518787399
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:109, lr:0.005732, total loss:0.000213
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:109, MSE: 0.00012802815763279796
+2025-03-18 18:46 - function:Train - INFO - [Test] MSE: 0.00014161, MAE: 0.008072, MAPE: 0.009997, RMSE: 0.011900
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:110, lr:0.005642, total loss:0.000214
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:110, MSE: 0.00015097907453309745
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:111, lr:0.005552, total loss:0.000220
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:111, MSE: 0.00017452513566240668
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:112, lr:0.005462, total loss:0.000216
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:112, MSE: 0.0001273326633963734
+2025-03-18 18:46 - function:Train - INFO - [Test] MSE: 0.00013604, MAE: 0.007784, MAPE: 0.009642, RMSE: 0.011664
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:113, lr:0.005372, total loss:0.000210
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:113, MSE: 0.00013554068573284894
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:114, lr:0.005281, total loss:0.000215
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:114, MSE: 0.00020732365373987705
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:115, lr:0.005191, total loss:0.000222
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:115, MSE: 0.00012964724737685174
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:116, lr:0.005100, total loss:0.000206
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:116, MSE: 0.00013194807979743928
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:117, lr:0.005009, total loss:0.000203
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:117, MSE: 0.0001307097845710814
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:118, lr:0.004919, total loss:0.000216
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:118, MSE: 0.0001264401653315872
+2025-03-18 18:46 - function:Train - INFO - [Test] MSE: 0.00014088, MAE: 0.008133, MAPE: 0.010086, RMSE: 0.011869
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:119, lr:0.004828, total loss:0.000207
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:119, MSE: 0.00012977201549801975
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:120, lr:0.004738, total loss:0.000209
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:120, MSE: 0.00014978114631958306
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:121, lr:0.004648, total loss:0.000224
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:121, MSE: 0.00012904145114589483
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:122, lr:0.004558, total loss:0.000200
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:122, MSE: 0.00012619156041182578
+2025-03-18 18:46 - function:Train - INFO - [Test] MSE: 0.00014272, MAE: 0.008285, MAPE: 0.010283, RMSE: 0.011947
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:123, lr:0.004468, total loss:0.000201
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:123, MSE: 0.00014038207882549614
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:124, lr:0.004378, total loss:0.000204
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:124, MSE: 0.00013599942030850798
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:125, lr:0.004289, total loss:0.000203
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:125, MSE: 0.0001551582245156169
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:126, lr:0.004200, total loss:0.000199
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:126, MSE: 0.00012613879516720772
+2025-03-18 18:46 - function:Train - INFO - [Test] MSE: 0.00014088, MAE: 0.008022, MAPE: 0.009926, RMSE: 0.011869
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:127, lr:0.004111, total loss:0.000218
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:127, MSE: 0.00012928995420224965
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:128, lr:0.004022, total loss:0.000209
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:128, MSE: 0.00013025621592532843
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:129, lr:0.003934, total loss:0.000198
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:129, MSE: 0.00013759316061623394
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:130, lr:0.003846, total loss:0.000203
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:130, MSE: 0.00014290418766904622
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:131, lr:0.003759, total loss:0.000203
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:131, MSE: 0.00012626756506506354
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:132, lr:0.003672, total loss:0.000197
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:132, MSE: 0.0001250679197255522
+2025-03-18 18:46 - function:Train - INFO - [Test] MSE: 0.00014281, MAE: 0.008375, MAPE: 0.010368, RMSE: 0.011950
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:133, lr:0.003586, total loss:0.000210
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:133, MSE: 0.00012599128240253776
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:134, lr:0.003500, total loss:0.000194
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:134, MSE: 0.00012178041652077809
+2025-03-18 18:46 - function:Train - INFO - [Test] MSE: 0.00013707, MAE: 0.007882, MAPE: 0.009759, RMSE: 0.011708
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:135, lr:0.003415, total loss:0.000189
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:135, MSE: 0.00013989064609631896
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:136, lr:0.003330, total loss:0.000195
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:136, MSE: 0.00012200096534797922
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:137, lr:0.003246, total loss:0.000197
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:137, MSE: 0.00013311606016941369
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:138, lr:0.003162, total loss:0.000206
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:138, MSE: 0.0001611860643606633
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:139, lr:0.003079, total loss:0.000198
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:139, MSE: 0.0001251200446859002
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:140, lr:0.002997, total loss:0.000191
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:140, MSE: 0.00012961133325006813
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:141, lr:0.002916, total loss:0.000185
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:141, MSE: 0.00011826462286990136
+2025-03-18 18:46 - function:Train - INFO - [Test] MSE: 0.00013471, MAE: 0.007813, MAPE: 0.009666, RMSE: 0.011607
+2025-03-18 18:46 - function:Train - INFO - [Train] epoch:142, lr:0.002835, total loss:0.000186
+2025-03-18 18:46 - function:Train - INFO - [Valid] epoch:142, MSE: 0.00015329952293541282
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:143, lr:0.002755, total loss:0.000194
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:143, MSE: 0.00012413700460456312
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:144, lr:0.002676, total loss:0.000184
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:144, MSE: 0.00012118291488150135
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:145, lr:0.002598, total loss:0.000188
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:145, MSE: 0.0001300511066801846
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:146, lr:0.002520, total loss:0.000181
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:146, MSE: 0.00012359223910607398
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:147, lr:0.002444, total loss:0.000184
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:147, MSE: 0.0001294456742471084
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:148, lr:0.002368, total loss:0.000196
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:148, MSE: 0.00013054627925157547
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:149, lr:0.002294, total loss:0.000190
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:149, MSE: 0.00012791775225196034
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:150, lr:0.002220, total loss:0.000197
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:150, MSE: 0.0001260370627278462
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:151, lr:0.002147, total loss:0.000185
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:151, MSE: 0.00012202256039017811
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:152, lr:0.002075, total loss:0.000182
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:152, MSE: 0.00012922818132210523
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:153, lr:0.002005, total loss:0.000180
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:153, MSE: 0.00011878018995048478
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:154, lr:0.001935, total loss:0.000181
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:154, MSE: 0.0001228189212270081
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:155, lr:0.001866, total loss:0.000186
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:155, MSE: 0.0001222904829774052
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:156, lr:0.001799, total loss:0.000178
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:156, MSE: 0.00011731719860108569
+2025-03-18 18:47 - function:Train - INFO - [Test] MSE: 0.00013135, MAE: 0.007580, MAPE: 0.009369, RMSE: 0.011461
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:157, lr:0.001733, total loss:0.000188
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:157, MSE: 0.00012028098717564717
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:158, lr:0.001667, total loss:0.000182
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:158, MSE: 0.00012279904331080616
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:159, lr:0.001603, total loss:0.000180
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:159, MSE: 0.00011884491686942056
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:160, lr:0.001540, total loss:0.000178
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:160, MSE: 0.00012507631618063897
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:161, lr:0.001479, total loss:0.000179
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:161, MSE: 0.00012990436516702175
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:162, lr:0.001418, total loss:0.000185
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:162, MSE: 0.00012850473285652697
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:163, lr:0.001359, total loss:0.000176
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:163, MSE: 0.00011613529204623774
+2025-03-18 18:47 - function:Train - INFO - [Test] MSE: 0.00013327, MAE: 0.007755, MAPE: 0.009574, RMSE: 0.011544
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:164, lr:0.001302, total loss:0.000179
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:164, MSE: 0.00011943589925067499
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:165, lr:0.001245, total loss:0.000174
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:165, MSE: 0.00011508156603667885
+2025-03-18 18:47 - function:Train - INFO - [Test] MSE: 0.00013407, MAE: 0.007820, MAPE: 0.009667, RMSE: 0.011579
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:166, lr:0.001190, total loss:0.000179
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:166, MSE: 0.00011658977018669248
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:167, lr:0.001136, total loss:0.000178
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:167, MSE: 0.00011993341468041763
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:168, lr:0.001083, total loss:0.000176
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:168, MSE: 0.0001338400470558554
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:169, lr:0.001032, total loss:0.000181
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:169, MSE: 0.00011791579163400456
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:170, lr:0.000982, total loss:0.000179
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:170, MSE: 0.00011563768930500373
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:171, lr:0.000934, total loss:0.000177
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:171, MSE: 0.00011879236262757331
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:172, lr:0.000887, total loss:0.000177
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:172, MSE: 0.00011483964772196487
+2025-03-18 18:47 - function:Train - INFO - [Test] MSE: 0.00013169, MAE: 0.007652, MAPE: 0.009445, RMSE: 0.011476
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:173, lr:0.000841, total loss:0.000179
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:173, MSE: 0.00011571766663109884
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:174, lr:0.000797, total loss:0.000177
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:174, MSE: 0.00011375195026630536
+2025-03-18 18:47 - function:Train - INFO - [Test] MSE: 0.00013113, MAE: 0.007729, MAPE: 0.009548, RMSE: 0.011451
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:175, lr:0.000755, total loss:0.000176
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:175, MSE: 0.00011734094005078077
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:176, lr:0.000714, total loss:0.000176
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:176, MSE: 0.0001170178729807958
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:177, lr:0.000674, total loss:0.000176
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:177, MSE: 0.00011472550977487117
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:178, lr:0.000636, total loss:0.000175
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:178, MSE: 0.00011952402564929798
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:179, lr:0.000599, total loss:0.000176
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:179, MSE: 0.00011492047633510083
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:180, lr:0.000564, total loss:0.000177
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:180, MSE: 0.00011342031211825088
+2025-03-18 18:47 - function:Train - INFO - [Test] MSE: 0.00013309, MAE: 0.007715, MAPE: 0.009526, RMSE: 0.011536
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:181, lr:0.000531, total loss:0.000173
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:181, MSE: 0.00012078418512828648
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:182, lr:0.000499, total loss:0.000172
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:182, MSE: 0.00011491849727462977
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:183, lr:0.000469, total loss:0.000175
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:183, MSE: 0.00011352414730936289
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:184, lr:0.000440, total loss:0.000174
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:184, MSE: 0.00011780385102611035
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:185, lr:0.000413, total loss:0.000171
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:185, MSE: 0.00011399676441214979
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:186, lr:0.000387, total loss:0.000170
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:186, MSE: 0.00011439296940807253
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:187, lr:0.000363, total loss:0.000173
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:187, MSE: 0.00011884286504937336
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:188, lr:0.000341, total loss:0.000175
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:188, MSE: 0.00011454286868683994
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:189, lr:0.000320, total loss:0.000171
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:189, MSE: 0.00011380141222616658
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:190, lr:0.000301, total loss:0.000170
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:190, MSE: 0.00011360143253114074
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:191, lr:0.000283, total loss:0.000169
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:191, MSE: 0.00011273575364612043
+2025-03-18 18:47 - function:Train - INFO - [Test] MSE: 0.00013184, MAE: 0.007707, MAPE: 0.009519, RMSE: 0.011482
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:192, lr:0.000268, total loss:0.000169
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:192, MSE: 0.0001132262623286806
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:193, lr:0.000253, total loss:0.000169
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:193, MSE: 0.00011498937965370715
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:194, lr:0.000241, total loss:0.000170
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:194, MSE: 0.00011530650954227895
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:195, lr:0.000230, total loss:0.000169
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:195, MSE: 0.00011465392162790522
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:196, lr:0.000221, total loss:0.000166
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:196, MSE: 0.00011331566201988608
+2025-03-18 18:47 - function:Train - INFO - [Train] epoch:197, lr:0.000213, total loss:0.000168
+2025-03-18 18:47 - function:Train - INFO - [Valid] epoch:197, MSE: 0.00011247485235799104
+2025-03-18 18:47 - function:Train - INFO - [Test] MSE: 0.00013143, MAE: 0.007688, MAPE: 0.009493, RMSE: 0.011464
+2025-03-18 18:48 - function:Train - INFO - [Train] epoch:198, lr:0.000208, total loss:0.000169
+2025-03-18 18:48 - function:Train - INFO - [Valid] epoch:198, MSE: 0.00011350551358191296
+2025-03-18 18:48 - function:Train - INFO - [Train] epoch:199, lr:0.000203, total loss:0.000168
+2025-03-18 18:48 - function:Train - INFO - [Valid] epoch:199, MSE: 0.00011300739424768835
+2025-03-18 18:48 - function:Train - INFO - [Train] epoch:200, lr:0.000201, total loss:0.000169
+2025-03-18 18:48 - function:Train - INFO - [Valid] epoch:200, MSE: 0.00011255047866143286
